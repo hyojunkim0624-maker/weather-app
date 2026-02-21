@@ -1,4 +1,3 @@
 streamlit
-requests 
-time
+requests
 streamlit-js-eval
